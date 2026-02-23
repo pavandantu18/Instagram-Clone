@@ -1,0 +1,15 @@
+=> Authentication
+    => register (1. Save user to database, 2. Giving token to user)
+    => login
+    => logout (token blacklisting)
+
+=> Post
+    => Create
+    => Can see the feed
+    => Like post (Collection Types)
+    => Save post 
+
+=> Users
+    => Followers
+    => Following
+
